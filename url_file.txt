@@ -1,0 +1,16 @@
+rtsp://216.48.184.244:8554/elestream1
+rtsp://happymonk:admin123@streams.ckdr.co.in:3554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://216.48.184.244:8554/elestream2
+rtsp://216.48.184.244:8554/elestream3
+rtsp://216.48.184.244:8554/elestream4
+rtsp://216.48.184.244:8554/elestream1
+rtsp://happymonk:admin123@streams.ckdr.co.in:3554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://216.48.184.244:8554/elestream2
+rtsp://216.48.184.244:8554/elestream3
+rtsp://216.48.184.244:8554/elestream4
+rtsp://216.48.184.244:8554/elestream1
+rtsp://happymonk:admin123@streams.ckdr.co.in:3554/cam/realmonitor?channel=1&subtype=0&unicast=true&proto=Onvif
+rtsp://216.48.184.244:8554/elestream2
+rtsp://216.48.184.244:8554/elestream3
+rtsp://216.48.184.244:8554/elestream4
+rtsp://216.48.184.244:8554/elestream1
